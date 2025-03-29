@@ -1,13 +1,11 @@
 ## The GeoTIFF format: 30 Years as the Backbone of the Earth Observation Community
 
 
-<figure style="display: flex; flex-direction: column; align-items: center">
+<p align="center">
   <img src="assets/moon.png" alt="Band GIF" style="width: 100%">
-</figure>
+</p>
 
-
-
-<figure style="display: flex; flex-direction: row; justify-content: center; gap: 10px;">
+<p align="center">
   <a href="https://github.com/andesdatacube/geotiff/blob/main/moon.py" target="_blank">
     <img src="assets/python.webp" alt="Python" style="height: 50px; width: 50px">
   </a>
@@ -23,4 +21,4 @@
   <a href="https://github.com/andesdatacube/geotiff/blob/main/moon.jl" target="_blank">
     <img src="assets/julia.png" alt="Julia" style="height: 60px; width: 60px">
   </a>
-</figure>
+</p>
