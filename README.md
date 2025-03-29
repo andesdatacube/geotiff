@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="assets/moon.png" alt="Band GIF" style="width: 100%">
+  <img src="assets/moon.png" alt="Band GIF" style="width: 50%">
 </p>
 
 <p align="center">
