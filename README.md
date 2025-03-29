@@ -21,4 +21,7 @@
   <a href="https://github.com/andesdatacube/geotiff/blob/main/moon.jl" target="_blank">
     <img src="assets/julia.png" alt="Julia" style="height: 60px; width: 60px">
   </a>
+  <a href="https://github.com/andesdatacube/geotiff/blob/main/moon_rust/src/main.rs" target="_blank">
+    <img src="assets/rust.png" alt="Julia" style="height: 60px; width: 60px">
+  </a>
 </p>
