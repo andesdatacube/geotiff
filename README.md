@@ -13,7 +13,7 @@
     <img src="assets/R.png" alt="R" style="height: 50px; width: 50px">
   </a>
   <a href="https://github.com/andesdatacube/geotiff/blob/main/moon.c" target="_blank">
-    <img src="assets/c.webp" alt="C" style="height: 50px; width: 60px">
+    <img src="assets/c.webp" alt="C" style="height: 50px; width: 50px">
   </a>
   <a href="https://github.com/andesdatacube/geotiff/blob/main/moon.go" target="_blank">
     <img src="assets/go.png" alt="Go" style="height: 50px; width: 70px">
