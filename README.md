@@ -1,8 +1,11 @@
-## The GeoTIFF format: 30 Years as the Backbone of the Earth Observation Community
+## A Byte-Level Exploration of the GeoTIFF Format
 
+![GEOTIFF-Page-1](https://github.com/user-attachments/assets/df812116-756f-4c82-9e88-80fec4bc2f38)
+
+This demo presents a ground-up implementation of the [F.3.4 Spherical Moon Example](https://docs.ogc.org/is/19-008r4/19-008r4.html#_spherical_moon_example) from the GeoTIFF specification. While GeoTIFF is predominantly used for terrestrial applications, its design is flexible enough to accommodate planetary bodies beyond Earth. This spherical Moon example is a minimal yet powerful illustration of this capability.
 
 <p align="center">
-  <img src="assets/moon.png" alt="Band GIF" style="width: 50%">
+  <img src="assets/moon.png" alt="Band GIF" style="width: 10%">
 </p>
 
 <p align="center">
